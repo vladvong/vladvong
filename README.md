@@ -1,4 +1,4 @@
-![Текст с описанием картинки](/img/PHOTO.svg)
+![Текст с описанием картинки](/img/NEWLOGO3.svg)
 ### Languages and tool
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E9E8E8?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML_5-E9E8E8?style=for-the-badge&logo=HTML5)
