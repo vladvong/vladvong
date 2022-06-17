@@ -1,5 +1,5 @@
 ![Текст с описанием картинки](/img/NEWLOGO3.svg)
-### LIBRARIES AND TECHNOLOGIES
+### Libraries and technologies 
 * SWIPER JS 
 * AOS.JS
 * jQuery 
