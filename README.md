@@ -11,4 +11,5 @@
 ![Figma](https://img.shields.io/badge/-Figma-E9E8E8?style=for-the-badge&logo=FIGMA)
 ![Git](https://img.shields.io/badge/-Git-E9E8E8?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Bootstrap-0071FC?style=for-the-badge&logo=Bootstrap)
+![MySql](https://img.shields.io/badge/-MySql-E9E8E8?style=for-the-badge&logo=MySql)
 
