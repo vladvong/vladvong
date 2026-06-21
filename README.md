@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Vlad
+# Hi, I'm Vlad
 
-## 🚀 About Me
+## About Me
 
 I'm a Junior Full Stack Web Developer based in Germany with a Bachelor's degree in Computer Science and Information Systems and additional professional training from STEP Computer Academy.
 
 I develop modern web applications using PHP, React, Vue.js, and Next.js while continuously improving my knowledge of software architecture, design patterns, and backend development. I also have practical experience with website deployment, VPS administration, SEO optimization, and UI/UX design.
 
-## 🎓 Education
+## Education
 
-* 🎓 Bachelor's Degree in Computer Science and Information Systems
-* 🎓 Graduate of STEP Computer Academy
+* Bachelor's Degree in Computer Science and Information Systems
+* Graduate of STEP Computer Academy
 
-## 💻 Frontend
+## Frontend
 
 * React
 * Next.js
@@ -25,7 +25,7 @@ I develop modern web applications using PHP, React, Vue.js, and Next.js while co
 * Bootstrap
 * jQuery
 
-## ⚙️ Backend
+## Backend
 
 * PHP
 * Laravel (learning and developing)
@@ -34,7 +34,7 @@ I develop modern web applications using PHP, React, Vue.js, and Next.js while co
 * MySQL
 * Redis
 
-## 🛠️ DevOps & Tools
+## DevOps & Tools
 
 * Git & GitHub
 * Docker
@@ -45,26 +45,26 @@ I develop modern web applications using PHP, React, Vue.js, and Next.js while co
 * Vite
 * Domain & Hosting Management
 
-## 🎨 Design
+## Design
 
 * Figma
 * UI Mockup Creation
 * Working with Design Systems
 * Website Prototyping
 
-## 🌐 CMS & Website Builders
+## CMS & Website Builders
 
 * WordPress
 * Wix
 
-## 📈 Additional Experience
+## Additional Experience
 
 * Search Engine Optimization (SEO)
 * Website Performance Optimization
 * Working with hosting providers and DNS configuration
 * Website deployment and maintenance
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Laravel Advanced
 * SOLID Principles
@@ -74,7 +74,7 @@ I develop modern web applications using PHP, React, Vue.js, and Next.js while co
 * Advanced Docker
 * Microservices
 
-## 📫 Contact
+## Contact
 
 * 📧 [vladyslav.yakuba@gmail.com](mailto:vladyslav.yakuba@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/jobs/)
