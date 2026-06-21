@@ -1,21 +1,61 @@
-![Текст с описанием картинки](/img/NEWLOGO3.svg)
-### Libraries and technologies 
-* SWIPER JS 
-* AOS.JS
-* jQuery 
-* Hower.css
-* NumPy
-* Mathlib
-* Pandas
-### Languages and tool
-![JavaScript](https://img.shields.io/badge/-JavaScript-E9E8E8?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML_5-E9E8E8?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS_3-E9E8E8?style=for-the-badge&logo=CSS3)
-![Python](https://img.shields.io/badge/-Python-E9E8E8?style=for-the-badge&logo=React)
-![Figma](https://img.shields.io/badge/-Figma-E9E8E8?style=for-the-badge&logo=FIGMA)
-![Git](https://img.shields.io/badge/-Git-E9E8E8?style=for-the-badge&logo=Git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-E9E8E8?style=for-the-badge&logo=Bootstrap)
-![MySql](https://img.shields.io/badge/-MySql-E9E8E8?style=for-the-badge&logo=MySql)
-![Less](https://img.shields.io/badge/-less-E9E8E8?style=for-the-badge&logo=less)
-![Less](https://img.shields.io/badge/-adobeillustrator-E9E8E8?style=for-the-badge&logo=adobeillustrator)
+# 👋 Hi, I'm Vlad
 
+## 🚀 About Me
+
+Junior PHP Developer from Germany 🇩🇪
+Passionate about backend development, WordPress, Vue.js, and clean architecture.
+Currently improving my skills in Laravel, SOLID principles, and modern web technologies.
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* PHP 8
+* Laravel
+* WordPress
+* MySQL
+
+### Frontend
+
+* Vue.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
+* jQuery
+
+### Tools
+
+* Git & GitHub
+* Docker
+* Figma
+* Linux
+* Composer
+* npm / Vite
+
+### Libraries
+
+* Swiper.js
+* AOS.js
+* Hover.css
+
+## 📚 Currently Learning
+
+* Design Patterns
+* SOLID
+* REST API Development
+* Vue Ecosystem
+* Docker & CI/CD
+
+## 📫 Contact
+
+* 📧 [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn
+* 🌐 Portfolio
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
